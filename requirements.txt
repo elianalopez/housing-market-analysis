@@ -1,0 +1,6 @@
+dash  
+plotly  
+pandas  
+scikit-learn  
+numpy
+bottleneck>=1.3.6
